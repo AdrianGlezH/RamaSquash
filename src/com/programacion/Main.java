@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 	// Commit 1
-    // Commit Lider 1
-    // Commit Lider 2
-    // Commit Lider 3
+    // commit Colaborador 1
+    // commit Colaborador 2
+    // commit Colaborador 3
     }
 }
